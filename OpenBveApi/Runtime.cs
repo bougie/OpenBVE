@@ -604,7 +604,20 @@ namespace OpenBveApi.Runtime {
 		/// <summary>The virtual K key. The default assignment is [9]. The numerical value of this constant is 14.</summary>
 		K = 14,
 		/// <summary>The virtual L key. The default assignment is [0]. The numerical value of this constant is 15.</summary>
-		L = 15
+		L = 15,
+		M = 16,
+		N = 17,
+		O = 18,
+		P = 19,
+		Q = 20,
+		R = 21,
+		T = 23,
+		U = 24,
+		V = 25,
+		W = 26,
+		X = 27,
+		Y = 28,
+		Z = 29
 	}
 	
 	

@@ -1516,6 +1516,71 @@ namespace OpenBve {
 											TrainManager.PlayerTrain.Plugin.KeyDown(OpenBveApi.Runtime.VirtualKeys.L);
 										}
 										break;
+									case Interface.Command.SecurityM:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyDown(OpenBveApi.Runtime.VirtualKeys.M);
+										}
+										break;
+									case Interface.Command.SecurityN:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyDown(OpenBveApi.Runtime.VirtualKeys.N);
+										}
+										break;
+									case Interface.Command.SecurityO:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyDown(OpenBveApi.Runtime.VirtualKeys.O);
+										}
+										break;
+									case Interface.Command.SecurityP:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyDown(OpenBveApi.Runtime.VirtualKeys.P);
+										}
+										break;
+									case Interface.Command.SecurityQ:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyDown(OpenBveApi.Runtime.VirtualKeys.Q);
+										}
+										break;
+									case Interface.Command.SecurityR:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyDown(OpenBveApi.Runtime.VirtualKeys.R);
+										}
+										break;
+									case Interface.Command.SecurityT:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyDown(OpenBveApi.Runtime.VirtualKeys.T);
+										}
+										break;
+									case Interface.Command.SecurityU:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyDown(OpenBveApi.Runtime.VirtualKeys.U);
+										}
+										break;
+									case Interface.Command.SecurityV:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyDown(OpenBveApi.Runtime.VirtualKeys.V);
+										}
+										break;
+									case Interface.Command.SecurityW:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyDown(OpenBveApi.Runtime.VirtualKeys.W);
+										}
+										break;
+									case Interface.Command.SecurityX:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyDown(OpenBveApi.Runtime.VirtualKeys.X);
+										}
+										break;
+									case Interface.Command.SecurityY:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyDown(OpenBveApi.Runtime.VirtualKeys.Y);
+										}
+										break;
+									case Interface.Command.SecurityZ:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyDown(OpenBveApi.Runtime.VirtualKeys.Z);
+										}
+										break;
 									case Interface.Command.TimetableToggle:
 										// option: timetable
 										if (Timetable.CustomTimetableAvailable) {
@@ -1726,6 +1791,71 @@ namespace OpenBve {
 									case Interface.Command.SecurityL:
 										if (TrainManager.PlayerTrain.Plugin != null) {
 											TrainManager.PlayerTrain.Plugin.KeyUp(OpenBveApi.Runtime.VirtualKeys.L);
+										}
+										break;
+									case Interface.Command.SecurityM:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyUp(OpenBveApi.Runtime.VirtualKeys.M);
+										}
+										break;
+									case Interface.Command.SecurityN:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyUp(OpenBveApi.Runtime.VirtualKeys.N);
+										}
+										break;
+									case Interface.Command.SecurityO:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyUp(OpenBveApi.Runtime.VirtualKeys.O);
+										}
+										break;
+									case Interface.Command.SecurityP:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyUp(OpenBveApi.Runtime.VirtualKeys.P);
+										}
+										break;
+									case Interface.Command.SecurityQ:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyUp(OpenBveApi.Runtime.VirtualKeys.Q);
+										}
+										break;
+									case Interface.Command.SecurityR:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyUp(OpenBveApi.Runtime.VirtualKeys.R);
+										}
+										break;
+									case Interface.Command.SecurityT:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyUp(OpenBveApi.Runtime.VirtualKeys.T);
+										}
+										break;
+									case Interface.Command.SecurityU:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyUp(OpenBveApi.Runtime.VirtualKeys.U);
+										}
+										break;
+									case Interface.Command.SecurityV:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyUp(OpenBveApi.Runtime.VirtualKeys.V);
+										}
+										break;
+									case Interface.Command.SecurityW:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyUp(OpenBveApi.Runtime.VirtualKeys.W);
+										}
+										break;
+									case Interface.Command.SecurityX:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyUp(OpenBveApi.Runtime.VirtualKeys.X);
+										}
+										break;
+									case Interface.Command.SecurityY:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyUp(OpenBveApi.Runtime.VirtualKeys.Y);
+										}
+										break;
+									case Interface.Command.SecurityZ:
+										if (TrainManager.PlayerTrain.Plugin != null) {
+											TrainManager.PlayerTrain.Plugin.KeyUp(OpenBveApi.Runtime.VirtualKeys.Z);
 										}
 										break;
 								}

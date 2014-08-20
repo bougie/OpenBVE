@@ -1,3 +1,9 @@
 *~
 *.swp
 *.swo
+OpenBve.userprefs
+OpenBve/Lib/
+OpenBve/bin/
+OpenBve/obj/
+OpenBveApi/bin/
+OpenBveApi/obj/
